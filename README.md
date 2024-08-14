@@ -1,6 +1,6 @@
 # Projeto-Loggi
 
-Análise de Operações de Entrega da Loggi em Belém, Pará
+## Explorando os Caminhos da Logística na região de Belém/PA
 
 Este repositório contém um projeto de análise das operações de entrega da Loggi em Belém, Pará, utilizando o Loggi Benchmark for Urban Deliveries (BUD). O foco deste estudo é otimizar rotas e alocação de recursos, aproveitando dados reais para identificar padrões e soluções para desafios logísticos na região.
 
