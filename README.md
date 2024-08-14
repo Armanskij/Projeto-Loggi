@@ -20,11 +20,11 @@ Para alcançar os objetivos deste projeto, utilizamos uma combinação de técni
 
 A análise dos dados gerou três principais linhas de raciocínio:
 
-- Estrutura Logística e Distribuição Geográfica: As operações dos dois hubs principais estão bem organizadas, com uma distribuição eficiente das entregas concentradas nos centros urbanos. Essa estrutura oferece uma base sólida para expandir as operações para outros municípios.
+- **Estrutura Logística e Distribuição Geográfica**: As operações dos dois hubs principais estão bem organizadas, com uma distribuição eficiente das entregas concentradas nos centros urbanos. Essa estrutura oferece uma base sólida para expandir as operações para outros municípios.
 
-- Investimento Estratégico na Hub de Belém: Considerando que a maioria das entregas é feita pelo hub de Belém, é recomendável focar os investimentos estratégicos nesse hub. Melhorias tecnológicas e no atendimento ao cliente têm maior potencial de retorno nesse local.
+- **Investimento Estratégico na Hub de Belém**: Considerando que a maioria das entregas é feita pelo hub de Belém, é recomendável focar os investimentos estratégicos nesse hub. Melhorias tecnológicas e no atendimento ao cliente têm maior potencial de retorno nesse local.
 
-- Padrão de Entregas e Potencial de Crescimento em Castanhal: As entregas no hub de Castanhal mostram um padrão de concentração no centro do município, com entregas esparsas em áreas periféricas. Isso indica um potencial para expandir as operações para municípios vizinhos, justificando investimentos em infraestrutura e desenvolvimento de novos clientes.
+- **Padrão de Entregas e Potencial de Crescimento em Castanhal**: As entregas no hub de Castanhal mostram um padrão de concentração no centro do município, com entregas esparsas em áreas periféricas. Isso indica um potencial para expandir as operações para municípios vizinhos, justificando investimentos em infraestrutura e desenvolvimento de novos clientes.
 
 # Ferramentas Utilizadas
 
